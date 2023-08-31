@@ -11,8 +11,3 @@ function Room() {
     alert("Sorry, try again later");
   }
 }
-
-function navigateToLogin() {
-  // ... any other logic ...
-  window.location.href = "form.html";
-}
